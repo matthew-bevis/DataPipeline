@@ -91,9 +91,9 @@ Example Output
 ```bash
 Successfully connected to the MySQL database.
 CSV data loaded successfully.
-
 Here are the most popular tickets in August 2020:
-- Christmas Spectacular
-- The North American International Auto Show
 - Washington Spirits vs Sky Blue FC
+- Christmas Spectacular
+- Carlisle Ford Nationals
+- The North American International Auto Show
 ```
